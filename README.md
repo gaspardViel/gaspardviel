@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img alt="Bandeau Profil" src="./assets/banner.jpg" width="100%">
+  <img alt="Bandeau Profil" src=".Gemini_Generated_Image_w4vrycw4vrycw4vr.jfif" width="100%">
 </p>
 
 <p align="center">

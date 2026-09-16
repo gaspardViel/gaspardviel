@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img alt="Bandeau Profil" src=".image.png" width="100%">
+  <img alt="Bandeau Profil" src="image.png" width="100%">
 </p>
 
 <p align="center">
